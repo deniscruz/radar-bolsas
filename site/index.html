@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Radar de Bolsas EUA</title>
+<meta name="description" content="Bolsas para estudar em universidades americanas, de fundações, ONGs, empresas, governos e universidades. Prazos verificados automaticamente.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="brand">
+        <div class="radar" aria-hidden="true"></div>
+        <h1>Radar de Bolsas EUA</h1>
+      </div>
+      <p class="sub">Bolsas para estudar em universidades americanas, de fundações, ONGs, empresas, governos e das próprias universidades. Um robô visita a página oficial de cada bolsa a cada 6 horas para conferir links e prazos. Você filtra como quiser.</p>
+      <div class="clock"><span class="live" aria-hidden="true"></span><span id="now">Carregando…</span></div>
+      <div class="topbar"><a class="suggest" id="suggest" target="_blank" rel="noopener" hidden>+ Sugerir uma bolsa</a></div>
+    </div>
+    <div class="stats" aria-live="polite">
+      <div class="stat u"><b id="s30">–</b><span>Fecham em 30 dias</span></div>
+      <div class="stat"><b id="sConf">–</b><span>Prazos confirmados</span></div>
+      <div class="stat"><b id="sall">–</b><span>Bolsas no radar</span></div>
+    </div>
+  </header>
+
+  <section class="controls" aria-label="Filtros">
+    <div class="searchrow">
+      <input type="search" id="q" placeholder="Buscar por nome, organização, área…" aria-label="Buscar bolsas">
+      <select id="level" aria-label="Nível">
+        <option value="">Todos os níveis</option>
+        <option value="ug">Graduação (inclui último ano do ensino médio)</option>
+        <option value="grad">Mestrado / Doutorado</option>
+        <option value="pro">Profissional / meio de carreira</option>
+      </select>
+      <select id="who" aria-label="Quem pode aplicar">
+        <option value="">Qualquer nacionalidade</option>
+        <option value="any">Abertas a estudantes internacionais</option>
+        <option value="br">Só para brasileiros</option>
+        <option value="us">Cidadãos / residentes dos EUA</option>
+        <option value="dev">Países em desenvolvimento</option>
+      </select>
+      <select id="sort" aria-label="Ordenar">
+        <option value="deadline">Prazo mais próximo</option>
+        <option value="match">Mais compatíveis com meu perfil</option>
+        <option value="new">Adicionadas recentemente</option>
+        <option value="name">Nome (A–Z)</option>
+      </select>
+    </div>
+    <div class="chips" id="types" role="group" aria-label="Tipo de organização"></div>
+    <div class="chips">
+      <button class="chip" id="fFull" aria-pressed="false">Cobertura integral</button>
+      <button class="chip" id="fStem" aria-pressed="false">STEM</button>
+      <button class="chip" id="fWomen" aria-pressed="false">Para mulheres</button>
+      <button class="chip" id="fConf" aria-pressed="false">Só prazos confirmados</button>
+      <button class="chip" id="fOpen" aria-pressed="false">Esconder prazos que acabaram de passar</button>
+      <button class="chip" id="fSaved" aria-pressed="false">★ Minhas salvas</button>
+      <button class="btn" id="toggleProfile" aria-expanded="false">Usar meu perfil (opcional)</button>
+    </div>
+
+    <div class="profile" id="profile" hidden>
+      <h2>Meu perfil</h2>
+      <p>Opcional. O perfil só marca cada bolsa como compatível, a verificar ou fora do perfil. Nada é escondido, a menos que você marque a caixa abaixo. Fica salvo só neste navegador.</p>
+      <div class="pgrid">
+        <label for="pCit">Cidadania
+          <select id="pCit"><option value="">Prefiro não dizer</option><option value="br">Brasileira</option><option value="us">Americana / green card</option><option value="dev">Outro país em desenvolvimento</option><option value="africa">País africano</option><option value="other">Outro país</option></select>
+        </label>
+        <label for="pLevel">Vou estudar
+          <select id="pLevel"><option value="">Qualquer nível</option><option value="ug">Graduação</option><option value="grad">Mestrado / Doutorado</option><option value="pro">Programa profissional</option></select>
+        </label>
+        <label for="pField">Área
+          <select id="pField"><option value="">Qualquer</option><option value="stem">STEM (exatas, engenharia, saúde, computação)</option><option value="other">Humanas, negócios, artes, outras</option></select>
+        </label>
+        <label for="pWoman">Bolsas para mulheres
+          <select id="pWoman"><option value="">Incluir</option><option value="no">Não se aplica a mim</option></select>
+        </label>
+      </div>
+      <div class="prow">
+        <label><input type="checkbox" id="pOnly"> Mostrar só as compatíveis</label>
+        <button class="btn" id="clearProfile">Limpar perfil</button>
+      </div>
+    </div>
+  </section>
+
+  <div class="meta"><span id="count"></span><span>Confirme sempre no site oficial antes de aplicar.</span></div>
+  <div class="list" id="list"><div class="loading">Carregando bolsas…</div></div>
+
+  <p class="note">Como os prazos funcionam: <b>Confirmado</b> quer dizer que o robô leu a data na página oficial na última varredura. <b>Estimado</b> quer dizer que a página não mostrou a data, então usamos a data típica do ciclo anual. <b>Contínua</b> aceita inscrições o ano todo. <b>Varia</b> muda a cada edição ou depende do país. Bolsas das universidades seguem o prazo de admissão.</p>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

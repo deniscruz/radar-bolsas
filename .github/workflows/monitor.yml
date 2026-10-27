@@ -1,0 +1,61 @@
+name: Monitorar bolsas
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # a cada 6 horas
+  workflow_dispatch:
+    inputs:
+      discover:
+        description: "Rodar também a descoberta de bolsas novas"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar-data
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Descobrir bolsas novas (segunda-feira ou sob pedido)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          MAX_AI_CHECKS: ${{ vars.MAX_AI_CHECKS }}
+        run: |
+          if [ "${{ inputs.discover }}" = "true" ] || { [ "$(date -u +%u)" = "1" ] && [ "$(date -u +%H)" -lt 6 ]; }; then
+            node scripts/discover.mjs
+          else
+            echo "Descoberta roda só na primeira varredura de segunda-feira."
+          fi
+      - name: Verificar páginas oficiais
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          MAX_AI_CHECKS: ${{ vars.MAX_AI_CHECKS }}
+        run: node scripts/monitor.mjs
+      - name: Salvar resultados
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "Nada mudou." && exit 0
+          git commit -m "Varredura automática $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
+
+  deploy:
+    needs: monitor
+    uses: ./.github/workflows/deploy.yml

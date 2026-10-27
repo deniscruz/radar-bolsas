@@ -1,0 +1,81 @@
+name: Sugerir uma bolsa
+description: Conhece uma bolsa para estudar nos EUA que não está no radar? Conte para a gente.
+title: "Sugestão: "
+labels: ["sugestão"]
+body:
+  - type: markdown
+    attributes:
+      value: Depois que alguém da equipe conferir e marcar a sugestão como **aprovada**, ela entra no site automaticamente.
+  - type: input
+    id: nome
+    attributes:
+      label: Nome da bolsa
+      placeholder: "Ex.: Knight-Hennessy Scholars"
+    validations:
+      required: true
+  - type: input
+    id: organizacao
+    attributes:
+      label: Organização
+      placeholder: "Ex.: Stanford University"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de organização
+      options: [Universidade, Fundação, ONG, Empresa, Governo]
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link oficial
+      description: A página da própria organização, não de um site agregador.
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: prazo
+    attributes:
+      label: Prazo
+      description: Data no formato AAAA-MM-DD, ou escreva "contínua" se aceita inscrições o ano todo.
+      placeholder: "2027-01-15"
+  - type: checkboxes
+    id: nivel
+    attributes:
+      label: Nível
+      options:
+        - label: Graduação
+        - label: Mestrado / Doutorado
+        - label: Profissional / meio de carreira
+  - type: checkboxes
+    id: quem
+    attributes:
+      label: Quem pode aplicar
+      options:
+        - label: Estudantes internacionais (qualquer país)
+        - label: Só brasileiros
+        - label: Cidadãos ou residentes dos EUA
+        - label: Países em desenvolvimento
+        - label: Cidadãos africanos
+        - label: Imigrantes nos EUA
+        - label: Lista específica de países
+  - type: checkboxes
+    id: extras
+    attributes:
+      label: Características
+      options:
+        - label: Cobertura integral
+        - label: Só para STEM
+        - label: Só para mulheres
+  - type: input
+    id: valor
+    attributes:
+      label: Valor
+      placeholder: "Ex.: US$ 20 mil por ano"
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: Uma ou duas frases sobre quem pode aplicar e o que a bolsa cobre.

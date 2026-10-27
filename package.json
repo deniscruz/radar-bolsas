@@ -1,0 +1,14 @@
+{
+  "name": "radar-de-bolsas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "monitor": "node scripts/monitor.mjs",
+    "discover": "node scripts/discover.mjs",
+    "dev": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.133.0"
+  }
+}

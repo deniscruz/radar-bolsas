@@ -1,0 +1,1240 @@
+[
+  {
+    "id": "knight-hennessy-scholars-stanford-university",
+    "name": "Knight-Hennessy Scholars",
+    "org": "Stanford University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 10,
+      "day": 8
+    },
+    "amount": "Integral: mensalidade, moradia, viagem e bolsa mensal por até 3 anos",
+    "description": "Pós-graduação em qualquer programa de Stanford, com foco em liderança. Brasileiros são elegíveis.",
+    "url": "https://knight-hennessy.stanford.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "harvard-college-financial-aid-harvard-university",
+    "name": "Harvard College Financial Aid",
+    "org": "Harvard University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 1
+    },
+    "amount": "Até 100% do custo, baseado na necessidade",
+    "description": "Admissão need-blind também para internacionais. Famílias com renda baixa pagam zero. Prazo da admissão regular; antecipada em 1º nov.",
+    "url": "https://college.harvard.edu/financial-aid",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "mit-financial-aid-massachusetts-institute-of-technology",
+    "name": "MIT Financial Aid",
+    "org": "Massachusetts Institute of Technology",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": true,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 5
+    },
+    "amount": "Até 100% do custo, baseado na necessidade",
+    "description": "Need-blind para internacionais e cobre toda a necessidade demonstrada. Antecipada em 1º nov.",
+    "url": "https://sfs.mit.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "yale-financial-aid-yale-university",
+    "name": "Yale Financial Aid",
+    "org": "Yale University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 2
+    },
+    "amount": "Até 100% do custo, baseado na necessidade",
+    "description": "Need-blind para internacionais. Cobre 100% da necessidade sem empréstimos.",
+    "url": "https://finaid.yale.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "princeton-financial-aid-princeton-university",
+    "name": "Princeton Financial Aid",
+    "org": "Princeton University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 1
+    },
+    "amount": "Até 100% do custo, sem empréstimos",
+    "description": "Need-blind para internacionais. A ajuda é toda em bolsa, nada de empréstimo.",
+    "url": "https://admission.princeton.edu/cost-aid",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "amherst-college-financial-aid-amherst-college",
+    "name": "Amherst College Financial Aid",
+    "org": "Amherst College",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 5
+    },
+    "amount": "Até 100% do custo, baseado na necessidade",
+    "description": "Liberal arts college need-blind para internacionais.",
+    "url": "https://www.amherst.edu/offices/financialaid",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "dartmouth-financial-aid-dartmouth-college",
+    "name": "Dartmouth Financial Aid",
+    "org": "Dartmouth College",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 2
+    },
+    "amount": "Até 100% do custo, baseado na necessidade",
+    "description": "Need-blind para internacionais desde 2022.",
+    "url": "https://financialaid.dartmouth.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "karsh-international-scholarship-duke-university",
+    "name": "Karsh International Scholarship",
+    "org": "Duke University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 2
+    },
+    "amount": "Toda a necessidade demonstrada + pesquisa de verão",
+    "description": "Para internacionais admitidos na Duke com necessidade financeira. Considerado automaticamente.",
+    "url": "https://financialaid.duke.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "cornelius-vanderbilt-ingram-scholarships-vanderbilt-universi",
+    "name": "Cornelius Vanderbilt & Ingram Scholarships",
+    "org": "Vanderbilt University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 12,
+      "day": 1
+    },
+    "amount": "Mensalidade integral (+ verões no Ingram)",
+    "description": "Bolsas de mérito. Exigem aplicação separada até 1º dez.",
+    "url": "https://www.vanderbilt.edu/scholarships",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "trustee-scholarship-boston-university",
+    "name": "Trustee Scholarship",
+    "org": "Boston University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 12,
+      "day": 1
+    },
+    "amount": "Mensalidade integral + taxas",
+    "description": "Mérito acadêmico. Internacionais podem concorrer.",
+    "url": "https://www.bu.edu/admissions",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "trustee-presidential-scholarships-university-of-southern-cal",
+    "name": "Trustee & Presidential Scholarships",
+    "org": "University of Southern California",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 12,
+      "day": 1
+    },
+    "amount": "Mensalidade integral ou metade",
+    "description": "Mérito. Aplicar para a USC até 1º dez já coloca você na disputa.",
+    "url": "https://admission.usc.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "emory-scholars-emory-university",
+    "name": "Emory Scholars",
+    "org": "Emory University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 11,
+      "day": 15
+    },
+    "amount": "Até o custo total",
+    "description": "Programa de mérito. Indicação feita na aplicação.",
+    "url": "https://apply.emory.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "dean-s-honor-scholarship-tulane-university",
+    "name": "Dean's Honor Scholarship",
+    "org": "Tulane University",
+    "type": "Universidade",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 12,
+      "day": 15
+    },
+    "amount": "Mensalidade integral",
+    "description": "Mérito. Exige ensaio extra. Internacionais elegíveis.",
+    "url": "https://admission.tulane.edu",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "morehead-cain-scholarship-unc-chapel-hill",
+    "name": "Morehead-Cain Scholarship",
+    "org": "UNC Chapel Hill",
+    "type": "Fundação",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 10,
+      "day": 15
+    },
+    "amount": "Integral por 4 anos + programas de verão",
+    "description": "Uma das bolsas de mérito mais antigas dos EUA. Aceita estudantes de vários países.",
+    "url": "https://www.moreheadcain.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "robertson-scholars-leadership-program-duke-unc-chapel-hill",
+    "name": "Robertson Scholars Leadership Program",
+    "org": "Duke & UNC Chapel Hill",
+    "type": "Fundação",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 11,
+      "day": 15
+    },
+    "amount": "Integral por 4 anos + verões financiados",
+    "description": "Estuda nas duas universidades. Data estimada; confira o ciclo no site.",
+    "url": "https://robertsonscholars.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "stamps-scholars-stamps-foundation-universidades-parceiras",
+    "name": "Stamps Scholars",
+    "org": "Stamps Foundation + universidades parceiras",
+    "type": "Fundação",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Até integral + fundo de enriquecimento",
+    "description": "Oferecida por mais de 40 universidades. Cada uma tem regra e prazo próprios; algumas aceitam internacionais.",
+    "url": "https://www.stampsscholars.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "lemann-fellowship-fundacao-lemann",
+    "name": "Lemann Fellowship",
+    "org": "Fundação Lemann",
+    "type": "Fundação",
+    "who": [
+      "br"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Complementa custos de mestrado/doutorado",
+    "description": "Para brasileiros admitidos em universidades parceiras (Harvard, Stanford, Columbia, UCLA, Illinois e outras) que querem trabalhar pelo Brasil.",
+    "url": "https://fundacaolemann.org.br",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "lideres-estudar-fundacao-estudar",
+    "name": "Líderes Estudar",
+    "org": "Fundação Estudar",
+    "type": "Fundação",
+    "who": [
+      "br"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Bolsa parcial + rede e mentoria",
+    "description": "Para brasileiros na graduação ou pós no Brasil ou exterior. Inscrições abrem uma vez por ano.",
+    "url": "https://www.estudar.org.br",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "bolsas-instituto-ling-instituto-ling",
+    "name": "Bolsas Instituto Ling",
+    "org": "Instituto Ling",
+    "type": "Fundação",
+    "who": [
+      "br"
+    ],
+    "levels": [
+      "grad",
+      "pro"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Parcial, para mestrado e MBA no exterior",
+    "description": "Para brasileiros com admissão em programas de excelência no exterior.",
+    "url": "https://institutoling.org.br",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "fulbright-comissao-fulbright-brasil-governo-dos-eua-brasil",
+    "name": "Fulbright (Comissão Fulbright Brasil)",
+    "org": "Governo dos EUA + Brasil",
+    "type": "Governo",
+    "who": [
+      "br"
+    ],
+    "levels": [
+      "grad",
+      "pro"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Integral ou parcial conforme o programa",
+    "description": "Mestrado, doutorado sanduíche, professores e pesquisadores brasileiros nos EUA.",
+    "url": "https://fulbright.org.br",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "doutorado-pleno-no-exterior-capes",
+    "name": "Doutorado Pleno no Exterior",
+    "org": "CAPES",
+    "type": "Governo",
+    "who": [
+      "br"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Mensalidade, bolsa mensal e passagens",
+    "description": "Doutorado completo no exterior para brasileiros, por edital.",
+    "url": "https://www.gov.br/capes",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "educationusa-opportunity-funds-departamento-de-estado-dos-eu",
+    "name": "EducationUSA Opportunity Funds",
+    "org": "Departamento de Estado dos EUA",
+    "type": "Governo",
+    "who": [
+      "br",
+      "dev"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Paga testes, taxas de aplicação, visto e passagem",
+    "description": "Para alunos de alto desempenho e baixa renda. No Brasil, via centros EducationUSA.",
+    "url": "https://educationusa.state.gov",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "hubert-h-humphrey-fellowship-governo-dos-eua",
+    "name": "Hubert H. Humphrey Fellowship",
+    "org": "Governo dos EUA",
+    "type": "Governo",
+    "who": [
+      "dev",
+      "br"
+    ],
+    "levels": [
+      "pro"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Integral, 10 meses sem diploma",
+    "description": "Profissionais em meio de carreira. Inscrição pela embaixada americana do seu país.",
+    "url": "https://www.humphreyfellowship.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "joint-japan-world-bank-graduate-scholarship-banco-mundial",
+    "name": "Joint Japan/World Bank Graduate Scholarship",
+    "org": "Banco Mundial",
+    "type": "Governo",
+    "who": [
+      "dev"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Mensalidade, passagem, seguro e bolsa mensal",
+    "description": "Mestrados em desenvolvimento em universidades parceiras, várias nos EUA. Exige experiência profissional.",
+    "url": "https://www.worldbank.org/en/programs/scholarships",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "oas-academic-scholarship-program-organizacao-dos-estados-ame",
+    "name": "OAS Academic Scholarship Program",
+    "org": "Organização dos Estados Americanos",
+    "type": "Governo",
+    "who": [
+      "br",
+      "dev"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Parcial ou integral, conforme a parceria",
+    "description": "Para cidadãos dos países membros da OEA, incluindo o Brasil.",
+    "url": "https://www.oas.org/en/scholarships",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "aauw-international-fellowships-american-association-of-unive",
+    "name": "AAUW International Fellowships",
+    "org": "American Association of University Women",
+    "type": "ONG",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": true,
+    "deadline": {
+      "month": 11,
+      "day": 15
+    },
+    "amount": "US$ 20 mil a 50 mil",
+    "description": "Para mulheres não americanas em pós-graduação nos EUA.",
+    "url": "https://www.aauw.org/resources/programs/fellowships-grants/",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "p-e-o-international-peace-scholarship-p-e-o-international",
+    "name": "P.E.O. International Peace Scholarship",
+    "org": "P.E.O. International",
+    "type": "ONG",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": true,
+    "deadline": {
+      "month": 12,
+      "day": 15
+    },
+    "amount": "Até US$ 12.500",
+    "description": "Para mulheres internacionais em pós-graduação nos EUA ou Canadá.",
+    "url": "https://www.peointernational.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "amelia-earhart-fellowship-zonta-international",
+    "name": "Amelia Earhart Fellowship",
+    "org": "Zonta International",
+    "type": "ONG",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": true,
+    "women": true,
+    "deadline": {
+      "month": 11,
+      "day": 15
+    },
+    "amount": "US$ 10 mil",
+    "description": "Mulheres em doutorado de engenharia ou ciência aeroespacial, qualquer nacionalidade.",
+    "url": "https://www.zonta.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "rotary-foundation-global-grant-rotary-international",
+    "name": "Rotary Foundation Global Grant",
+    "org": "Rotary International",
+    "type": "ONG",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": "rolling",
+    "amount": "A partir de US$ 30 mil",
+    "description": "Pós-graduação ligada às áreas do Rotary (paz, saúde, educação, meio ambiente). Comece pelo Rotary Club da sua cidade.",
+    "url": "https://www.rotary.org/en/our-programs/scholarships",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "aga-khan-foundation-international-scholarship-aga-khan-found",
+    "name": "Aga Khan Foundation International Scholarship",
+    "org": "Aga Khan Foundation",
+    "type": "Fundação",
+    "who": [
+      "specific"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 3,
+      "day": 31
+    },
+    "amount": "50% bolsa + 50% empréstimo",
+    "description": "Pós-graduação para estudantes de países específicos da Ásia e África.",
+    "url": "https://the.akdn",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "mastercard-foundation-scholars-program-mastercard-foundation",
+    "name": "Mastercard Foundation Scholars Program",
+    "org": "Mastercard Foundation",
+    "type": "Empresa",
+    "who": [
+      "africa"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": "varies",
+    "amount": "Integral",
+    "description": "Para jovens africanos, em universidades parceiras como Berkeley e Duke.",
+    "url": "https://mastercardfdn.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "generation-google-scholarship-google",
+    "name": "Generation Google Scholarship",
+    "org": "Google",
+    "type": "Empresa",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": true,
+    "women": false,
+    "deadline": "varies",
+    "amount": "US$ 10 mil",
+    "description": "Ciência da computação. Disponibilidade e regras mudam a cada ano.",
+    "url": "https://buildyourfuture.withgoogle.com/scholarships",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "paul-daisy-soros-fellowships-for-new-americans-paul-daisy-so",
+    "name": "Paul & Daisy Soros Fellowships for New Americans",
+    "org": "Paul & Daisy Soros",
+    "type": "Fundação",
+    "who": [
+      "immigrant"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 10,
+      "day": 29
+    },
+    "amount": "Até US$ 90 mil em 2 anos",
+    "description": "Imigrantes e filhos de imigrantes nos EUA, incluindo DACA. Data estimada.",
+    "url": "https://www.pdsoros.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "the-gates-scholarship-gates-foundation",
+    "name": "The Gates Scholarship",
+    "org": "Gates Foundation",
+    "type": "Fundação",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 9,
+      "day": 15
+    },
+    "amount": "Todo o custo não coberto",
+    "description": "Alunos de minorias, baixa renda, no último ano do ensino médio.",
+    "url": "https://www.thegatesscholarship.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "coca-cola-scholars-program-coca-cola-scholars-foundation",
+    "name": "Coca-Cola Scholars Program",
+    "org": "Coca-Cola Scholars Foundation",
+    "type": "Empresa",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 9,
+      "day": 30
+    },
+    "amount": "US$ 20 mil",
+    "description": "Liderança e serviço. Último ano do ensino médio.",
+    "url": "https://www.coca-colascholarsfoundation.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "jack-kent-cooke-college-scholarship-jack-kent-cooke-foundati",
+    "name": "Jack Kent Cooke College Scholarship",
+    "org": "Jack Kent Cooke Foundation",
+    "type": "Fundação",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 11,
+      "day": 13
+    },
+    "amount": "Até US$ 55 mil por ano",
+    "description": "Alto desempenho com necessidade financeira. Data estimada.",
+    "url": "https://www.jkcf.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "questbridge-national-college-match-questbridge",
+    "name": "QuestBridge National College Match",
+    "org": "QuestBridge",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 9,
+      "day": 26
+    },
+    "amount": "Bolsa integral em faculdades parceiras",
+    "description": "Alunos de baixa renda. Também aceita alguns internacionais que estudam no ensino médio dos EUA.",
+    "url": "https://www.questbridge.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "dell-scholars-michael-susan-dell-foundation",
+    "name": "Dell Scholars",
+    "org": "Michael & Susan Dell Foundation",
+    "type": "Fundação",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 12,
+      "day": 1
+    },
+    "amount": "US$ 20 mil + notebook + apoio",
+    "description": "Alunos de baixa renda com garra, participantes de programas de preparação.",
+    "url": "https://www.dellscholars.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "hispanic-scholarship-fund-hsf",
+    "name": "Hispanic Scholarship Fund",
+    "org": "HSF",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 2,
+      "day": 15
+    },
+    "amount": "US$ 500 a 5 mil",
+    "description": "Estudantes de origem hispânica. DACA elegível.",
+    "url": "https://www.hsf.net",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "burger-king-scholars-burger-king-foundation",
+    "name": "Burger King Scholars",
+    "org": "Burger King Foundation",
+    "type": "Empresa",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 12,
+      "day": 15
+    },
+    "amount": "US$ 1 mil a 60 mil",
+    "description": "Ensino médio nos EUA, Canadá ou Porto Rico.",
+    "url": "https://burgerkingfoundation.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "elks-most-valuable-student-elks-national-foundation",
+    "name": "Elks Most Valuable Student",
+    "org": "Elks National Foundation",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 11,
+      "day": 12
+    },
+    "amount": "US$ 1 mil a 12.500 por ano",
+    "description": "Mérito, liderança e necessidade. Data estimada.",
+    "url": "https://www.elks.org/scholars",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "ron-brown-scholar-program-cap-charitable-foundation",
+    "name": "Ron Brown Scholar Program",
+    "org": "CAP Charitable Foundation",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 9
+    },
+    "amount": "US$ 40 mil",
+    "description": "Alunos afro-americanos com liderança e serviço comunitário.",
+    "url": "https://www.ronbrown.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "horatio-alger-national-scholarship-horatio-alger-association",
+    "name": "Horatio Alger National Scholarship",
+    "org": "Horatio Alger Association",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 10,
+      "day": 25
+    },
+    "amount": "US$ 25 mil",
+    "description": "Superação de adversidades e necessidade financeira.",
+    "url": "https://scholars.horatioalger.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "davidson-fellows-davidson-institute",
+    "name": "Davidson Fellows",
+    "org": "Davidson Institute",
+    "type": "Fundação",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 2,
+      "day": 12
+    },
+    "amount": "US$ 10 mil a 50 mil",
+    "description": "Jovens até 18 anos com projeto significativo em STEM, literatura, música ou filosofia.",
+    "url": "https://www.davidsongifted.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "cameron-impact-scholarship-bryan-cameron-education-foundatio",
+    "name": "Cameron Impact Scholarship",
+    "org": "Bryan Cameron Education Foundation",
+    "type": "Fundação",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": true,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 9,
+      "day": 10
+    },
+    "amount": "Integral por 4 anos",
+    "description": "Mérito e impacto comunitário.",
+    "url": "https://www.bryancameroneducationfoundation.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "point-foundation-scholarship-point-foundation",
+    "name": "Point Foundation Scholarship",
+    "org": "Point Foundation",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 15
+    },
+    "amount": "Bolsa + mentoria",
+    "description": "Estudantes LGBTQ+. Data estimada.",
+    "url": "https://pointfoundation.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "american-indian-college-fund-american-indian-college-fund",
+    "name": "American Indian College Fund",
+    "org": "American Indian College Fund",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 5,
+      "day": 31
+    },
+    "amount": "Varia",
+    "description": "Estudantes indígenas americanos e nativos do Alasca.",
+    "url": "https://collegefund.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "apia-scholars-apia-scholars",
+    "name": "APIA Scholars",
+    "org": "APIA Scholars",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 10
+    },
+    "amount": "US$ 2.500 a 20 mil",
+    "description": "Estudantes asiático-americanos e das ilhas do Pacífico. DACA elegível.",
+    "url": "https://apiascholars.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "uncf-scholarships-united-negro-college-fund",
+    "name": "UNCF Scholarships",
+    "org": "United Negro College Fund",
+    "type": "ONG",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": "rolling",
+    "amount": "Centenas de bolsas, valores variados",
+    "description": "Portal com várias bolsas abertas ao longo do ano.",
+    "url": "https://uncf.org/scholarships",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "swe-scholarships-society-of-women-engineers",
+    "name": "SWE Scholarships",
+    "org": "Society of Women Engineers",
+    "type": "ONG",
+    "who": [
+      "any"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": false,
+    "stem": true,
+    "women": true,
+    "deadline": {
+      "month": 2,
+      "day": 15
+    },
+    "amount": "US$ 1 mil a 15 mil",
+    "description": "Mulheres em engenharia e computação. Várias bolsas aceitam internacionais matriculadas nos EUA.",
+    "url": "https://swe.org/scholarships",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "smart-scholarship-departamento-de-defesa-dos-eua",
+    "name": "SMART Scholarship",
+    "org": "Departamento de Defesa dos EUA",
+    "type": "Governo",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug",
+      "grad"
+    ],
+    "full": true,
+    "stem": true,
+    "women": false,
+    "deadline": {
+      "month": 12,
+      "day": 1
+    },
+    "amount": "Mensalidade integral + salário anual + estágio",
+    "description": "STEM com contrato de trabalho no governo após formar.",
+    "url": "https://www.smartscholarship.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "nsf-graduate-research-fellowship-national-science-foundation",
+    "name": "NSF Graduate Research Fellowship",
+    "org": "National Science Foundation",
+    "type": "Governo",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": true,
+    "stem": true,
+    "women": false,
+    "deadline": {
+      "month": 10,
+      "day": 15
+    },
+    "amount": "US$ 37 mil/ano + mensalidade por 3 anos",
+    "description": "Pesquisa em STEM. Prazos variam por área.",
+    "url": "https://www.nsfgrfp.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "hertz-fellowship-fannie-and-john-hertz-foundation",
+    "name": "Hertz Fellowship",
+    "org": "Fannie and John Hertz Foundation",
+    "type": "Fundação",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": true,
+    "stem": true,
+    "women": false,
+    "deadline": {
+      "month": 10,
+      "day": 25
+    },
+    "amount": "Até 5 anos de doutorado financiados",
+    "description": "Ciências aplicadas e engenharia.",
+    "url": "https://www.hertzfoundation.org",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "goldwater-scholarship-barry-goldwater-foundation",
+    "name": "Goldwater Scholarship",
+    "org": "Barry Goldwater Foundation",
+    "type": "Governo",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "ug"
+    ],
+    "full": false,
+    "stem": true,
+    "women": false,
+    "deadline": {
+      "month": 1,
+      "day": 29
+    },
+    "amount": "Até US$ 7.500/ano",
+    "description": "Graduandos em pesquisa STEM. Indicação pela universidade.",
+    "url": "https://goldwaterscholarship.gov",
+    "addedAt": "2026-10-27"
+  },
+  {
+    "id": "truman-scholarship-harry-s-truman-foundation",
+    "name": "Truman Scholarship",
+    "org": "Harry S. Truman Foundation",
+    "type": "Governo",
+    "who": [
+      "us"
+    ],
+    "levels": [
+      "grad"
+    ],
+    "full": false,
+    "stem": false,
+    "women": false,
+    "deadline": {
+      "month": 2,
+      "day": 3
+    },
+    "amount": "US$ 30 mil para pós-graduação",
+    "description": "Para quem quer carreira em serviço público. Indicação pela universidade.",
+    "url": "https://www.truman.gov",
+    "addedAt": "2026-10-27"
+  }
+]

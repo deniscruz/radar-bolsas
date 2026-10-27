@@ -1,0 +1,41 @@
+name: Adicionar bolsa sugerida
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar-data
+  cancel-in-progress: false
+
+jobs:
+  add:
+    if: github.event.label.name == 'aprovada'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - id: add
+        run: node scripts/suggest.mjs
+      - name: Salvar e fechar a sugestão
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/scholarships.json
+          git commit -m "Adiciona bolsa sugerida: ${{ steps.add.outputs.name }} (#${{ github.event.issue.number }})"
+          git push
+          gh issue close ${{ github.event.issue.number }} --comment "Obrigado! A bolsa foi adicionada ao radar e aparece no site em alguns minutos."
+
+  deploy:
+    needs: add
+    uses: ./.github/workflows/deploy.yml
