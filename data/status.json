@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T13:09:04.816Z",
+  "generatedAt": "2026-10-29T22:48:33.651Z",
   "items": {
     "mit-financial-aid-massachusetts-institute-of-technology": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -15,7 +15,7 @@
       "state": null
     },
     "harvard-college-financial-aid-harvard-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -28,7 +28,7 @@
       "state": null
     },
     "yale-financial-aid-yale-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -41,7 +41,7 @@
       "state": null
     },
     "knight-hennessy-scholars-stanford-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -54,7 +54,7 @@
       "state": null
     },
     "princeton-financial-aid-princeton-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -67,7 +67,7 @@
       "state": null
     },
     "dartmouth-financial-aid-dartmouth-college": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -80,7 +80,7 @@
       "state": null
     },
     "trustee-presidential-scholarships-university-of-southern-cal": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -93,27 +93,27 @@
       "state": null
     },
     "dean-s-honor-scholarship-tulane-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 403,
       "link": "blocked",
       "error": "HTTP 403",
       "failures": 0
     },
     "amherst-college-financial-aid-amherst-college": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "a31e6a463eced03688eaef96ed557eae25da2cddccf35cea6fd2118a02f41d78",
-      "changedAt": "2026-10-28T22:38:42.127Z",
+      "hash": "eaef6c2d896b8db41475f80f090a70de643d9d0b5d65d6d3d02195ba806a5cbd",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "cornelius-vanderbilt-ingram-scholarships-vanderbilt-universi": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -133,7 +133,7 @@
       "state": null
     },
     "karsh-international-scholarship-duke-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -146,7 +146,7 @@
       "state": null
     },
     "emory-scholars-emory-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -159,7 +159,7 @@
       "state": null
     },
     "morehead-cain-scholarship-unc-chapel-hill": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -172,20 +172,20 @@
       "state": null
     },
     "robertson-scholars-leadership-program-duke-unc-chapel-hill": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "02a0be91d9b55b5402df3a5b1c31a29e25c2fc2103de0b04f2683afbe9b50039",
-      "changedAt": "2026-10-29T13:09:04.816Z",
+      "hash": "72d23c842f30a3426887cc72c4c9d09a21d74e14e546f6f9900501a79db79150",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "trustee-scholarship-boston-university": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -198,7 +198,7 @@
       "state": null
     },
     "fulbright-comissao-fulbright-brasil-governo-dos-eua-brasil": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -211,7 +211,7 @@
       "state": null
     },
     "bolsas-instituto-ling-instituto-ling": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -224,7 +224,7 @@
       "state": null
     },
     "educationusa-opportunity-funds-departamento-de-estado-dos-eu": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "error": null,
@@ -237,7 +237,7 @@
       "state": null
     },
     "joint-japan-world-bank-graduate-scholarship-banco-mundial": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -250,7 +250,7 @@
       "state": null
     },
     "lideres-estudar-fundacao-estudar": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -263,7 +263,7 @@
       "state": null
     },
     "hubert-h-humphrey-fellowship-governo-dos-eua": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -276,14 +276,14 @@
       "state": null
     },
     "aauw-international-fellowships-american-association-of-unive": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 403,
       "link": "blocked",
       "error": "HTTP 403",
       "failures": 0
     },
     "p-e-o-international-peace-scholarship-p-e-o-international": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -296,14 +296,14 @@
       "state": null
     },
     "rotary-foundation-global-grant-rotary-international": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 429,
       "link": "blocked",
       "error": "HTTP 429",
       "failures": 0
     },
     "oas-academic-scholarship-program-organizacao-dos-estados-ame": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -323,20 +323,20 @@
       "state": null
     },
     "lemann-fellowship-fundacao-lemann": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "c6e282873e7d556861ed52142b3fb3d864a85cd0cd0e9cdf1694d699e5bf783d",
-      "changedAt": "2026-10-28T22:38:42.127Z",
+      "hash": "90b9c40478600c0fe939f462d17bc9d08ebdd110ef045afd312a3a7bf3786f55",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "stamps-scholars-stamps-foundation-universidades-parceiras": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -349,7 +349,7 @@
       "state": null
     },
     "generation-google-scholarship-google": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -362,7 +362,7 @@
       "state": null
     },
     "amelia-earhart-fellowship-zonta-international": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -375,20 +375,20 @@
       "state": null
     },
     "mastercard-foundation-scholars-program-mastercard-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "4fc573a037874a4e8c38fec59b8d7c4910a39029ab2f3665228648f7014ee8b4",
-      "changedAt": null,
+      "hash": "cdb778cf83ca6b02bcd55d4a9fe8206c7fe3d1daa465d8c771aee4b22cf52dff",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "aga-khan-foundation-international-scholarship-aga-khan-found": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -401,7 +401,7 @@
       "state": null
     },
     "the-gates-scholarship-gates-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -414,7 +414,7 @@
       "state": null
     },
     "paul-daisy-soros-fellowships-for-new-americans-paul-daisy-so": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -427,7 +427,7 @@
       "state": null
     },
     "coca-cola-scholars-program-coca-cola-scholars-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -440,7 +440,7 @@
       "state": null
     },
     "questbridge-national-college-match-questbridge": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -453,7 +453,7 @@
       "state": null
     },
     "dell-scholars-michael-susan-dell-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -466,33 +466,33 @@
       "state": null
     },
     "jack-kent-cooke-college-scholarship-jack-kent-cooke-foundati": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "eb524e67e9d544e67e40770b8d5711ca7902adb098fe7f3946c4d15053ac5156",
-      "changedAt": "2026-10-29T13:09:04.816Z",
+      "hash": "ccf71bfd2ddba4c77905db868ead51df870cdcb5a4e2c1e98e8ff23ab179f489",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "doutorado-pleno-no-exterior-capes": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "f395e359484d194b2ad0f757c35125b0bc24608f97da6fc6f755b28a56305d29",
-      "changedAt": "2026-10-28T22:38:42.127Z",
+      "hash": "0cbfad03035ab6189067315f87a7d7af110004bfe947c4b04e54e0bf476d6424",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "hispanic-scholarship-fund-hsf": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -505,7 +505,7 @@
       "state": null
     },
     "davidson-fellows-davidson-institute": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -525,7 +525,7 @@
       "state": null
     },
     "point-foundation-scholarship-point-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -538,14 +538,14 @@
       "state": null
     },
     "cameron-impact-scholarship-bryan-cameron-education-foundatio": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 403,
       "link": "blocked",
       "error": "HTTP 403",
       "failures": 0
     },
     "elks-most-valuable-student-elks-national-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -558,7 +558,7 @@
       "state": null
     },
     "horatio-alger-national-scholarship-horatio-alger-association": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -571,20 +571,20 @@
       "state": null
     },
     "american-indian-college-fund-american-indian-college-fund": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "fe623dc1798d96765b02982d575eb317b704bc05073cea55b26a7d98c3578b6e",
-      "changedAt": "2026-10-27T22:19:04.752Z",
+      "hash": "3331efd0a85ac9d3cc748435741f9b92d72d65dd4aa418b75969127b9ed95498",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "uncf-scholarships-united-negro-college-fund": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -597,7 +597,7 @@
       "state": null
     },
     "burger-king-scholars-burger-king-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -610,27 +610,20 @@
       "state": null
     },
     "nsf-graduate-research-fellowship-national-science-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
-      "http": 200,
+      "checkedAt": "2026-10-29T22:48:33.651Z",
+      "http": 202,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "2d5e20d944259d91410aac6dd1b25dc22ff390a24f73ae22ce62e783126cec1e",
-      "changedAt": null,
-      "pageDeadline": {
-        "date": "2026-11-15",
-        "snippet": "ime Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy applications are closed November 15, 2026 You can withdraw"
-      },
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "changedAt": "2026-10-29T22:48:33.651Z",
+      "pageDeadline": null,
       "ai": null,
-      "confirmed": {
-        "date": "2026-11-15",
-        "source": "page",
-        "quote": "ime Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy applications are closed November 15, 2026 You can withdraw"
-      },
+      "confirmed": null,
       "state": null
     },
     "goldwater-scholarship-barry-goldwater-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -643,7 +636,7 @@
       "state": null
     },
     "truman-scholarship-harry-s-truman-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -656,7 +649,7 @@
       "state": null
     },
     "hertz-fellowship-fannie-and-john-hertz-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -676,7 +669,7 @@
       "state": null
     },
     "smart-scholarship-departamento-de-defesa-dos-eua": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -689,33 +682,33 @@
       "state": null
     },
     "ron-brown-scholar-program-cap-charitable-foundation": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
-      "http": 200,
+      "checkedAt": "2026-10-29T22:48:33.651Z",
+      "http": 202,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "b55bd0de6e0fad985efbe930b2833b3f2d605e71573f562a8c7631eb2fc01146",
-      "changedAt": null,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "apia-scholars-apia-scholars": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
       "error": null,
-      "hash": "4dbfea410208096a39576be920d447575dae24780298bfe4fe9ebc1c150b4f94",
-      "changedAt": "2026-10-29T13:09:04.816Z",
+      "hash": "7e9b8df465d05605644bcbe9983988ef132d47901132df59fc2f552bb9710ae5",
+      "changedAt": "2026-10-29T22:48:33.651Z",
       "pageDeadline": null,
       "ai": null,
       "confirmed": null,
       "state": null
     },
     "swe-scholarships-society-of-women-engineers": {
-      "checkedAt": "2026-10-29T13:09:04.816Z",
+      "checkedAt": "2026-10-29T22:48:33.651Z",
       "http": 200,
       "link": "ok",
       "failures": 0,
@@ -740,8 +733,8 @@
     "ok": 51,
     "blocked": 4,
     "broken": 0,
-    "changed": 4,
-    "confirmed": 6,
+    "changed": 10,
+    "confirmed": 5,
     "ai": 0,
     "aiEnabled": false
   }
